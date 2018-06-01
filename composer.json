@@ -1,0 +1,13 @@
+{
+    "name": "crm/zoho",
+    "description": "Using Zoho SDK",
+    "authors": [
+        {
+            "name": "phatvu4035",
+            "email": "aloha050992@gmail.com"
+        }
+    ],
+    "require": {
+        "zohocrm/php-sdk": "^1.0"
+    }
+}
